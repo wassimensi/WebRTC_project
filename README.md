@@ -1,2 +1,2 @@
 # webRTC_Project
-webRTC application for voice and video callin
+webRTC application for voice and video calling
