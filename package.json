@@ -1,0 +1,23 @@
+{
+  "name": "webRTC_Project",
+  "version": "1.0.0",
+  "description": "webRTC_Project\r ===========================",
+  "main": "webrtc_signal_server.js",
+  "dependencies": {
+    "websocket": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wassimensi/webRTC_Project.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wassimensi/webRTC_Project/issues"
+  },
+  "homepage": "https://github.com/wassimensi/webRTC_Project"
+}
