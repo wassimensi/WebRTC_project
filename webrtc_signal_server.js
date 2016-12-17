@@ -131,3 +131,4 @@ function log_error(error) {
 function log_comment(comment) {
   console.log((new Date())+" "+comment);
 }
+ligne de modif
